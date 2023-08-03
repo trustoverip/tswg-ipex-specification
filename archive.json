@@ -1,0 +1,100 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-08-03T01:11:06.264420+00:00",
+  "repo": "trustoverip/tswg-ipex-specification",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOKAiwa85tFImK",
+      "title": "Fix references to WoT specs and update to ToIP",
+      "url": "https://github.com/trustoverip/tswg-ipex-specification/issues/2",
+      "state": "OPEN",
+      "author": "m00sey",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-07-31T21:32:12Z",
+      "updatedAt": "2023-07-31T21:32:12Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOKAiwa85W1F5f",
+      "title": "adds migration note",
+      "url": "https://github.com/trustoverip/tswg-ipex-specification/pull/1",
+      "state": "MERGED",
+      "author": "m00sey",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Add a reference to the previous WebOfTrust repository.",
+      "createdAt": "2023-07-31T17:56:15Z",
+      "updatedAt": "2023-08-01T20:03:12Z",
+      "baseRepository": "trustoverip/tswg-ipex-specification",
+      "baseRefName": "main",
+      "baseRefOid": "2f670cef3120264b3d0abdea10bd10208b4140f6",
+      "headRepository": "m00sey/tswg-ipex-specification",
+      "headRefName": "main",
+      "headRefOid": "04b5fc1ecce19339e6e13fa67e7a72b30a10fa8c",
+      "closedAt": "2023-08-01T20:03:12Z",
+      "mergedAt": "2023-08-01T20:03:12Z",
+      "mergedBy": "m00sey",
+      "mergeCommit": {
+        "oid": "d37d534318212474c080215c961d82c4a19fb82a"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
