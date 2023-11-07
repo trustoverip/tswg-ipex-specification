@@ -5,8 +5,8 @@
 WG Working Group                                             S. M. Smith
 Internet-Draft                                             ProSapien LLC
 Intended status: Informational                            P. Feairheller
-Expires: 28 January 2024                                           GLEIF
-                                                            27 July 2023
+Expires: 10 May 2024                                               GLEIF
+                                                         7 November 2023
 
 
               Issuance and Presentation Exchange Protocol
@@ -70,7 +70,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 January 2024.
+   This Internet-Draft will expire on 10 May 2024.
 
 Copyright Notice
 
